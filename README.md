@@ -16,7 +16,7 @@ DEPLOYING TO HEROKU
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lucifeermorningstar/devilpack)
 
 ## Official Support
-<a href="https://t.me/deviluserbot"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://github.com/devilmasters/deviluserbot_772?organization=devilmasters&organization=devilmasters"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 [![DEVILBot logo](https://telegra.ph/file/b907cf4d03ef1298fe623.jpg)](https://t.me/deviluserbot)
